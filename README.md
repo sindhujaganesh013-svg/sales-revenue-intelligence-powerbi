@@ -46,3 +46,14 @@ Transformed raw sales data into an interactive business intelligence dashboard f
 ## 👤 Author
 
 **Sindhuja G**
+
+## 📸 Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](dashboard-overview.png)
+
+### Year Filter — 2016
+![Year Filter](dashboard-year-2016.png)
+
+### Combined Filters — 2016 + West + Technology
+![Combined Filters](dashboard-combined-filters.png)
